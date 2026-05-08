@@ -1,0 +1,8 @@
+C:\Shumailov\API\API\obj\Debug\net10.0\API.csproj.AssemblyReference.cache
+C:\Shumailov\API\API\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Shumailov\API\API\obj\Debug\net10.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Shumailov\API\API\obj\Debug\net10.0\API.AssemblyInfoInputs.cache
+C:\Shumailov\API\API\obj\Debug\net10.0\API.AssemblyInfo.cs
+C:\Shumailov\API\API\obj\Debug\net10.0\API.csproj.CoreCompileInputs.cache
+C:\Shumailov\API\API\obj\Debug\net10.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Shumailov\API\API\obj\Debug\net10.0\API.MvcApplicationPartsAssemblyInfo.cache
