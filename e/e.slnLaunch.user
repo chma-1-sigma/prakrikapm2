@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "Новый профиль",
+    "Projects": [
+      {
+        "Path": "e\\e.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "AgroControlOperator\\AgroControlOperator.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "AgroControlClient\\AgroControlClient.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "AgroControlLaboratory\\AgroControlLaboratory.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

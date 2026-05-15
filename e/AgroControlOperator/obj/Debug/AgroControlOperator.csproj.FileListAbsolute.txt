@@ -1,0 +1,34 @@
+C:\Users\deb29\source\repos\e\AgroControlOperator\bin\Debug\AgroControlOperator.exe.config
+C:\Users\deb29\source\repos\e\AgroControlOperator\bin\Debug\AgroControlOperator.exe
+C:\Users\deb29\source\repos\e\AgroControlOperator\bin\Debug\AgroControlOperator.pdb
+C:\Users\deb29\source\repos\e\AgroControlOperator\obj\Debug\AgroControlOperator.csproj.AssemblyReference.cache
+C:\Users\deb29\source\repos\e\AgroControlOperator\obj\Debug\MainWindow.g.cs
+C:\Users\deb29\source\repos\e\AgroControlOperator\obj\Debug\App.g.cs
+C:\Users\deb29\source\repos\e\AgroControlOperator\obj\Debug\AgroControlOperator_MarkupCompile.cache
+C:\Users\deb29\source\repos\e\AgroControlOperator\obj\Debug\MainWindow.baml
+C:\Users\deb29\source\repos\e\AgroControlOperator\obj\Debug\AgroControlOperator.g.resources
+C:\Users\deb29\source\repos\e\AgroControlOperator\obj\Debug\AgroControlOperator.Properties.Resources.resources
+C:\Users\deb29\source\repos\e\AgroControlOperator\obj\Debug\AgroControlOperator.csproj.GenerateResource.cache
+C:\Users\deb29\source\repos\e\AgroControlOperator\obj\Debug\AgroControlOperator.csproj.CoreCompileInputs.cache
+C:\Users\deb29\source\repos\e\AgroControlOperator\obj\Debug\AgroControlOperator.exe
+C:\Users\deb29\source\repos\e\AgroControlOperator\obj\Debug\AgroControlOperator.pdb
+C:\Users\deb29\source\repos\e\AgroControlOperator\obj\Debug\LoginWindow.baml
+C:\Users\deb29\source\repos\e\AgroControlOperator\obj\Debug\App.baml
+C:\Users\deb29\source\repos\e\AgroControlOperator\obj\Debug\LoginWindow.g.cs
+C:\Shumailov\практика бурмалдактика\Новая папка (4)\e\AgroControlOperator\bin\Debug\AgroControlOperator.exe.config
+C:\Shumailov\практика бурмалдактика\Новая папка (4)\e\AgroControlOperator\bin\Debug\AgroControlOperator.exe
+C:\Shumailov\практика бурмалдактика\Новая папка (4)\e\AgroControlOperator\bin\Debug\AgroControlOperator.pdb
+C:\Shumailov\практика бурмалдактика\Новая папка (4)\e\AgroControlOperator\obj\Debug\AgroControlOperator.csproj.AssemblyReference.cache
+C:\Shumailov\практика бурмалдактика\Новая папка (4)\e\AgroControlOperator\obj\Debug\LoginWindow.baml
+C:\Shumailov\практика бурмалдактика\Новая папка (4)\e\AgroControlOperator\obj\Debug\MainWindow.baml
+C:\Shumailov\практика бурмалдактика\Новая папка (4)\e\AgroControlOperator\obj\Debug\App.baml
+C:\Shumailov\практика бурмалдактика\Новая папка (4)\e\AgroControlOperator\obj\Debug\LoginWindow.g.cs
+C:\Shumailov\практика бурмалдактика\Новая папка (4)\e\AgroControlOperator\obj\Debug\MainWindow.g.cs
+C:\Shumailov\практика бурмалдактика\Новая папка (4)\e\AgroControlOperator\obj\Debug\App.g.cs
+C:\Shumailov\практика бурмалдактика\Новая папка (4)\e\AgroControlOperator\obj\Debug\AgroControlOperator_MarkupCompile.cache
+C:\Shumailov\практика бурмалдактика\Новая папка (4)\e\AgroControlOperator\obj\Debug\AgroControlOperator.g.resources
+C:\Shumailov\практика бурмалдактика\Новая папка (4)\e\AgroControlOperator\obj\Debug\AgroControlOperator.Properties.Resources.resources
+C:\Shumailov\практика бурмалдактика\Новая папка (4)\e\AgroControlOperator\obj\Debug\AgroControlOperator.csproj.GenerateResource.cache
+C:\Shumailov\практика бурмалдактика\Новая папка (4)\e\AgroControlOperator\obj\Debug\AgroControlOperator.csproj.CoreCompileInputs.cache
+C:\Shumailov\практика бурмалдактика\Новая папка (4)\e\AgroControlOperator\obj\Debug\AgroControlOperator.exe
+C:\Shumailov\практика бурмалдактика\Новая папка (4)\e\AgroControlOperator\obj\Debug\AgroControlOperator.pdb
