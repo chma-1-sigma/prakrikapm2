@@ -1,0 +1,213 @@
+C:\Users\deb29\source\repos\e\AgroControlClient\obj\Debug\AgroControlClient.csproj.AssemblyReference.cache
+C:\Users\deb29\source\repos\e\AgroControlClient\obj\Debug\LoginWindow.baml
+C:\Users\deb29\source\repos\e\AgroControlClient\obj\Debug\LoginWindow.g.cs
+C:\Users\deb29\source\repos\e\AgroControlClient\obj\Debug\App.g.cs
+C:\Users\deb29\source\repos\e\AgroControlClient\obj\Debug\AgroControlClient_MarkupCompile.cache
+C:\Users\deb29\source\repos\e\AgroControlClient\obj\Debug\MainWindow.baml
+C:\Users\deb29\source\repos\e\AgroControlClient\obj\Debug\MainWindow.g.cs
+C:\Users\deb29\source\repos\e\AgroControlClient\obj\Debug\AgroControlClient.g.resources
+C:\Users\deb29\source\repos\e\AgroControlClient\obj\Debug\AgroControlClient.Properties.Resources.resources
+C:\Users\deb29\source\repos\e\AgroControlClient\obj\Debug\AgroControlClient.csproj.GenerateResource.cache
+C:\Users\deb29\source\repos\e\AgroControlClient\obj\Debug\AgroControlClient.csproj.CoreCompileInputs.cache
+C:\Users\deb29\source\repos\e\AgroControlClient\bin\Debug\AgroControlClient.exe.config
+C:\Users\deb29\source\repos\e\AgroControlClient\bin\Debug\AgroControlClient.exe
+C:\Users\deb29\source\repos\e\AgroControlClient\bin\Debug\AgroControlClient.pdb
+C:\Users\deb29\source\repos\e\AgroControlClient\bin\Debug\System.Drawing.Common.dll
+C:\Users\deb29\source\repos\e\AgroControlClient\bin\Debug\System.Drawing.Common.pdb
+C:\Users\deb29\source\repos\e\AgroControlClient\bin\Debug\System.Drawing.Common.xml
+C:\Users\deb29\source\repos\e\AgroControlClient\obj\Debug\AgroCont.E6EA1A51.Up2Date
+C:\Users\deb29\source\repos\e\AgroControlClient\obj\Debug\AgroControlClient.exe
+C:\Users\deb29\source\repos\e\AgroControlClient\obj\Debug\AgroControlClient.pdb
+C:\Users\deb29\source\repos\e\AgroControlClient\obj\Debug\App.baml
+C:\Users\deb29\source\repos\e\AgroControlClient\obj\Debug\RegisterWindow.baml
+C:\Users\deb29\source\repos\e\AgroControlClient\obj\Debug\RegisterWindow.g.cs
+C:\Users\deb29\source\repos\e\AgroControlClient\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\deb29\source\repos\e\AgroControlClient\bin\Debug\System.Buffers.dll
+C:\Users\deb29\source\repos\e\AgroControlClient\bin\Debug\System.IO.Pipelines.dll
+C:\Users\deb29\source\repos\e\AgroControlClient\bin\Debug\System.Memory.dll
+C:\Users\deb29\source\repos\e\AgroControlClient\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\deb29\source\repos\e\AgroControlClient\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\deb29\source\repos\e\AgroControlClient\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\deb29\source\repos\e\AgroControlClient\bin\Debug\System.Text.Json.dll
+C:\Users\deb29\source\repos\e\AgroControlClient\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\deb29\source\repos\e\AgroControlClient\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\deb29\source\repos\e\AgroControlClient\bin\Debug\System.Buffers.xml
+C:\Users\deb29\source\repos\e\AgroControlClient\bin\Debug\System.IO.Pipelines.xml
+C:\Users\deb29\source\repos\e\AgroControlClient\bin\Debug\System.Memory.xml
+C:\Users\deb29\source\repos\e\AgroControlClient\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\deb29\source\repos\e\AgroControlClient\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\deb29\source\repos\e\AgroControlClient\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\deb29\source\repos\e\AgroControlClient\bin\Debug\System.Text.Json.xml
+C:\Users\deb29\source\repos\e\AgroControlClient\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\deb29\source\repos\e\AgroControlClient\bin\Debug\ClosedXML.dll
+C:\Users\deb29\source\repos\e\AgroControlClient\bin\Debug\ClosedXML.Parser.dll
+C:\Users\deb29\source\repos\e\AgroControlClient\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\deb29\source\repos\e\AgroControlClient\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\deb29\source\repos\e\AgroControlClient\bin\Debug\EPPlus.dll
+C:\Users\deb29\source\repos\e\AgroControlClient\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\deb29\source\repos\e\AgroControlClient\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\deb29\source\repos\e\AgroControlClient\bin\Debug\ExcelNumberFormat.dll
+C:\Users\deb29\source\repos\e\AgroControlClient\bin\Debug\Microsoft.Bcl.Cryptography.dll
+C:\Users\deb29\source\repos\e\AgroControlClient\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\deb29\source\repos\e\AgroControlClient\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\deb29\source\repos\e\AgroControlClient\bin\Debug\RBush.dll
+C:\Users\deb29\source\repos\e\AgroControlClient\bin\Debug\SixLabors.Fonts.dll
+C:\Users\deb29\source\repos\e\AgroControlClient\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\deb29\source\repos\e\AgroControlClient\bin\Debug\System.Formats.Asn1.dll
+C:\Users\deb29\source\repos\e\AgroControlClient\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\deb29\source\repos\e\AgroControlClient\bin\Debug\ClosedXML.pdb
+C:\Users\deb29\source\repos\e\AgroControlClient\bin\Debug\ClosedXML.xml
+C:\Users\deb29\source\repos\e\AgroControlClient\bin\Debug\ClosedXML.Parser.xml
+C:\Users\deb29\source\repos\e\AgroControlClient\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\deb29\source\repos\e\AgroControlClient\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\deb29\source\repos\e\AgroControlClient\bin\Debug\EPPlus.xml
+C:\Users\deb29\source\repos\e\AgroControlClient\bin\Debug\ExcelNumberFormat.xml
+C:\Users\deb29\source\repos\e\AgroControlClient\bin\Debug\Microsoft.Bcl.Cryptography.xml
+C:\Users\deb29\source\repos\e\AgroControlClient\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\deb29\source\repos\e\AgroControlClient\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\deb29\source\repos\e\AgroControlClient\bin\Debug\RBush.xml
+C:\Users\deb29\source\repos\e\AgroControlClient\bin\Debug\SixLabors.Fonts.xml
+C:\Users\deb29\source\repos\e\AgroControlClient\bin\Debug\System.Formats.Asn1.xml
+C:\Users\deb29\source\repos\e\AgroControlClient\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient\bin\Debug\AgroControlClient.exe.config
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient\bin\Debug\AgroControlClient.exe
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient\bin\Debug\AgroControlClient.pdb
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient\bin\Debug\ClosedXML.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient\bin\Debug\ClosedXML.Parser.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient\bin\Debug\EPPlus.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient\bin\Debug\EPPlus.Interfaces.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient\bin\Debug\EPPlus.System.Drawing.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient\bin\Debug\ExcelNumberFormat.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient\bin\Debug\Microsoft.Bcl.Cryptography.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient\bin\Debug\RBush.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient\bin\Debug\SixLabors.Fonts.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient\bin\Debug\System.Buffers.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient\bin\Debug\System.Drawing.Common.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient\bin\Debug\System.Formats.Asn1.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient\bin\Debug\System.IO.Pipelines.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient\bin\Debug\System.Memory.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient\bin\Debug\System.Numerics.Vectors.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient\bin\Debug\System.Text.Encodings.Web.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient\bin\Debug\System.Text.Json.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient\bin\Debug\ClosedXML.pdb
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient\bin\Debug\ClosedXML.xml
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient\bin\Debug\ClosedXML.Parser.xml
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient\bin\Debug\EPPlus.xml
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient\bin\Debug\ExcelNumberFormat.xml
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient\bin\Debug\Microsoft.Bcl.Cryptography.xml
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient\bin\Debug\RBush.xml
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient\bin\Debug\SixLabors.Fonts.xml
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient\bin\Debug\System.Buffers.xml
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient\bin\Debug\System.Drawing.Common.pdb
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient\bin\Debug\System.Drawing.Common.xml
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient\bin\Debug\System.Formats.Asn1.xml
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient\bin\Debug\System.IO.Pipelines.xml
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient\bin\Debug\System.Memory.xml
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient\bin\Debug\System.Numerics.Vectors.xml
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient\bin\Debug\System.Text.Encodings.Web.xml
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient\bin\Debug\System.Text.Json.xml
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient\obj\Debug\AgroControlClient.csproj.AssemblyReference.cache
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient\obj\Debug\LoginWindow.baml
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient\obj\Debug\MainWindow.baml
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient\obj\Debug\RegisterWindow.baml
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient\obj\Debug\App.baml
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient\obj\Debug\LoginWindow.g.cs
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient\obj\Debug\MainWindow.g.cs
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient\obj\Debug\RegisterWindow.g.cs
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient\obj\Debug\App.g.cs
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient\obj\Debug\AgroControlClient_MarkupCompile.cache
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient\obj\Debug\AgroControlClient.g.resources
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient\obj\Debug\AgroControlClient.Properties.Resources.resources
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient\obj\Debug\AgroControlClient.csproj.GenerateResource.cache
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient\obj\Debug\AgroControlClient.csproj.CoreCompileInputs.cache
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient\obj\Debug\AgroCont.E6EA1A51.Up2Date
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient\obj\Debug\AgroControlClient.exe
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient\obj\Debug\AgroControlClient.pdb
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient\obj\Debug\AgroControlClient.csproj.AssemblyReference.cache
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient\obj\Debug\LoginWindow.baml
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient\obj\Debug\MainWindow.baml
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient\obj\Debug\RegisterWindow.baml
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient\obj\Debug\App.baml
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient\obj\Debug\LoginWindow.g.cs
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient\obj\Debug\MainWindow.g.cs
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient\obj\Debug\RegisterWindow.g.cs
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient\obj\Debug\App.g.cs
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient\obj\Debug\AgroControlClient_MarkupCompile.cache
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient\obj\Debug\AgroControlClient.g.resources
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient\obj\Debug\AgroControlClient.Properties.Resources.resources
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient\obj\Debug\AgroControlClient.csproj.GenerateResource.cache
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient\obj\Debug\AgroControlClient.csproj.CoreCompileInputs.cache
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient\bin\Debug\AgroControlClient.exe.config
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient\bin\Debug\AgroControlClient.exe
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient\bin\Debug\AgroControlClient.pdb
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient\bin\Debug\ClosedXML.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient\bin\Debug\ClosedXML.Parser.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient\bin\Debug\EPPlus.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient\bin\Debug\EPPlus.Interfaces.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient\bin\Debug\EPPlus.System.Drawing.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient\bin\Debug\ExcelNumberFormat.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient\bin\Debug\Microsoft.Bcl.Cryptography.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient\bin\Debug\RBush.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient\bin\Debug\SixLabors.Fonts.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient\bin\Debug\System.Buffers.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient\bin\Debug\System.Drawing.Common.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient\bin\Debug\System.Formats.Asn1.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient\bin\Debug\System.IO.Pipelines.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient\bin\Debug\System.Memory.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient\bin\Debug\System.Numerics.Vectors.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient\bin\Debug\System.Text.Encodings.Web.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient\bin\Debug\System.Text.Json.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient\bin\Debug\ClosedXML.pdb
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient\bin\Debug\ClosedXML.xml
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient\bin\Debug\ClosedXML.Parser.xml
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient\bin\Debug\EPPlus.xml
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient\bin\Debug\ExcelNumberFormat.xml
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient\bin\Debug\Microsoft.Bcl.Cryptography.xml
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient\bin\Debug\RBush.xml
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient\bin\Debug\SixLabors.Fonts.xml
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient\bin\Debug\System.Buffers.xml
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient\bin\Debug\System.Drawing.Common.pdb
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient\bin\Debug\System.Drawing.Common.xml
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient\bin\Debug\System.Formats.Asn1.xml
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient\bin\Debug\System.IO.Pipelines.xml
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient\bin\Debug\System.Memory.xml
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient\bin\Debug\System.Numerics.Vectors.xml
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient\bin\Debug\System.Text.Encodings.Web.xml
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient\bin\Debug\System.Text.Json.xml
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient\obj\Debug\AgroCont.E6EA1A51.Up2Date
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient\obj\Debug\AgroControlClient.exe
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient\obj\Debug\AgroControlClient.pdb

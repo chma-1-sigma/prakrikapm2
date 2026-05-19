@@ -1,0 +1,189 @@
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient.Tests\bin\Debug\ru\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient.Tests\bin\Debug\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient.Tests\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient.Tests\bin\Debug\AgroControlClient.Tests.dll.config
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient.Tests\bin\Debug\AgroControlClient.Tests.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient.Tests\bin\Debug\AgroControlClient.Tests.pdb
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient.Tests\bin\Debug\AgroControlClient.exe
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient.Tests\bin\Debug\FluentAssertions.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient.Tests\bin\Debug\ClosedXML.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient.Tests\bin\Debug\System.Text.Json.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient.Tests\bin\Debug\System.Memory.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient.Tests\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient.Tests\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient.Tests\bin\Debug\SixLabors.Fonts.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient.Tests\bin\Debug\ExcelNumberFormat.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient.Tests\bin\Debug\ClosedXML.Parser.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient.Tests\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient.Tests\bin\Debug\System.Buffers.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient.Tests\bin\Debug\RBush.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient.Tests\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient.Tests\bin\Debug\System.IO.Pipelines.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient.Tests\bin\Debug\System.Text.Encodings.Web.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient.Tests\bin\Debug\System.Numerics.Vectors.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient.Tests\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient.Tests\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient.Tests\bin\Debug\AgroControlClient.pdb
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient.Tests\bin\Debug\AgroControlClient.exe.config
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient.Tests\bin\Debug\FluentAssertions.pdb
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient.Tests\bin\Debug\FluentAssertions.xml
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient.Tests\bin\Debug\ClosedXML.pdb
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient.Tests\bin\Debug\ClosedXML.xml
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient.Tests\bin\Debug\System.Text.Json.xml
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient.Tests\bin\Debug\System.Memory.xml
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient.Tests\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient.Tests\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient.Tests\bin\Debug\SixLabors.Fonts.xml
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient.Tests\bin\Debug\ExcelNumberFormat.xml
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient.Tests\bin\Debug\ClosedXML.Parser.xml
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient.Tests\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient.Tests\bin\Debug\System.Buffers.xml
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient.Tests\bin\Debug\RBush.xml
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient.Tests\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient.Tests\bin\Debug\System.IO.Pipelines.xml
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient.Tests\bin\Debug\System.Text.Encodings.Web.xml
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient.Tests\bin\Debug\System.Numerics.Vectors.xml
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient.Tests\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient.Tests\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient.Tests\obj\Debug\AgroControlClient.Tests.csproj.AssemblyReference.cache
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient.Tests\obj\Debug\AgroControlClient.Tests.csproj.CoreCompileInputs.cache
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient.Tests\obj\Debug\AgroCont.CDF97BF7.Up2Date
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient.Tests\obj\Debug\AgroControlClient.Tests.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlClient.Tests\obj\Debug\AgroControlClient.Tests.pdb
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient.Tests\bin\Debug\ru\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient.Tests\bin\Debug\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient.Tests\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient.Tests\bin\Debug\AgroControlClient.Tests.dll.config
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient.Tests\bin\Debug\AgroControlClient.Tests.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient.Tests\bin\Debug\AgroControlClient.Tests.pdb
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient.Tests\bin\Debug\AgroControlClient.exe
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient.Tests\bin\Debug\FluentAssertions.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient.Tests\bin\Debug\ClosedXML.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient.Tests\bin\Debug\System.Text.Json.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient.Tests\bin\Debug\System.Memory.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient.Tests\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient.Tests\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient.Tests\bin\Debug\SixLabors.Fonts.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient.Tests\bin\Debug\ExcelNumberFormat.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient.Tests\bin\Debug\ClosedXML.Parser.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient.Tests\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient.Tests\bin\Debug\System.Buffers.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient.Tests\bin\Debug\RBush.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient.Tests\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient.Tests\bin\Debug\System.IO.Pipelines.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient.Tests\bin\Debug\System.Text.Encodings.Web.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient.Tests\bin\Debug\System.Numerics.Vectors.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient.Tests\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient.Tests\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient.Tests\bin\Debug\AgroControlClient.pdb
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient.Tests\bin\Debug\AgroControlClient.exe.config
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient.Tests\bin\Debug\FluentAssertions.pdb
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient.Tests\bin\Debug\FluentAssertions.xml
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient.Tests\bin\Debug\ClosedXML.pdb
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient.Tests\bin\Debug\ClosedXML.xml
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient.Tests\bin\Debug\System.Text.Json.xml
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient.Tests\bin\Debug\System.Memory.xml
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient.Tests\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient.Tests\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient.Tests\bin\Debug\SixLabors.Fonts.xml
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient.Tests\bin\Debug\ExcelNumberFormat.xml
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient.Tests\bin\Debug\ClosedXML.Parser.xml
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient.Tests\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient.Tests\bin\Debug\System.Buffers.xml
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient.Tests\bin\Debug\RBush.xml
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient.Tests\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient.Tests\bin\Debug\System.IO.Pipelines.xml
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient.Tests\bin\Debug\System.Text.Encodings.Web.xml
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient.Tests\bin\Debug\System.Numerics.Vectors.xml
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient.Tests\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient.Tests\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient.Tests\obj\Debug\AgroControlClient.Tests.csproj.AssemblyReference.cache
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient.Tests\obj\Debug\AgroControlClient.Tests.csproj.CoreCompileInputs.cache
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient.Tests\obj\Debug\AgroCont.CDF97BF7.Up2Date
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient.Tests\obj\Debug\AgroControlClient.Tests.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlClient.Tests\obj\Debug\AgroControlClient.Tests.pdb
+C:\Shumailov\практика бурмалдактика\Сессия6\e\AgroControlClient.Tests\bin\Debug\ru\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Shumailov\практика бурмалдактика\Сессия6\e\AgroControlClient.Tests\bin\Debug\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Shumailov\практика бурмалдактика\Сессия6\e\AgroControlClient.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Shumailov\практика бурмалдактика\Сессия6\e\AgroControlClient.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Shumailov\практика бурмалдактика\Сессия6\e\AgroControlClient.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Shumailov\практика бурмалдактика\Сессия6\e\AgroControlClient.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Shumailov\практика бурмалдактика\Сессия6\e\AgroControlClient.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Shumailov\практика бурмалдактика\Сессия6\e\AgroControlClient.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Shumailov\практика бурмалдактика\Сессия6\e\AgroControlClient.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Shumailov\практика бурмалдактика\Сессия6\e\AgroControlClient.Tests\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Shumailov\практика бурмалдактика\Сессия6\e\AgroControlClient.Tests\bin\Debug\AgroControlClient.Tests.dll.config
+C:\Shumailov\практика бурмалдактика\Сессия6\e\AgroControlClient.Tests\bin\Debug\AgroControlClient.Tests.dll
+C:\Shumailov\практика бурмалдактика\Сессия6\e\AgroControlClient.Tests\bin\Debug\AgroControlClient.Tests.pdb
+C:\Shumailov\практика бурмалдактика\Сессия6\e\AgroControlClient.Tests\bin\Debug\AgroControlClient.exe
+C:\Shumailov\практика бурмалдактика\Сессия6\e\AgroControlClient.Tests\bin\Debug\FluentAssertions.dll
+C:\Shumailov\практика бурмалдактика\Сессия6\e\AgroControlClient.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Shumailov\практика бурмалдактика\Сессия6\e\AgroControlClient.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Shumailov\практика бурмалдактика\Сессия6\e\AgroControlClient.Tests\bin\Debug\ClosedXML.dll
+C:\Shumailov\практика бурмалдактика\Сессия6\e\AgroControlClient.Tests\bin\Debug\System.Text.Json.dll
+C:\Shumailov\практика бурмалдактика\Сессия6\e\AgroControlClient.Tests\bin\Debug\System.Memory.dll
+C:\Shumailov\практика бурмалдактика\Сессия6\e\AgroControlClient.Tests\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Shumailov\практика бурмалдактика\Сессия6\e\AgroControlClient.Tests\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Shumailov\практика бурмалдактика\Сессия6\e\AgroControlClient.Tests\bin\Debug\SixLabors.Fonts.dll
+C:\Shumailov\практика бурмалдактика\Сессия6\e\AgroControlClient.Tests\bin\Debug\ExcelNumberFormat.dll
+C:\Shumailov\практика бурмалдактика\Сессия6\e\AgroControlClient.Tests\bin\Debug\ClosedXML.Parser.dll
+C:\Shumailov\практика бурмалдактика\Сессия6\e\AgroControlClient.Tests\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Shumailov\практика бурмалдактика\Сессия6\e\AgroControlClient.Tests\bin\Debug\System.Buffers.dll
+C:\Shumailov\практика бурмалдактика\Сессия6\e\AgroControlClient.Tests\bin\Debug\RBush.dll
+C:\Shumailov\практика бурмалдактика\Сессия6\e\AgroControlClient.Tests\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Shumailov\практика бурмалдактика\Сессия6\e\AgroControlClient.Tests\bin\Debug\System.IO.Pipelines.dll
+C:\Shumailov\практика бурмалдактика\Сессия6\e\AgroControlClient.Tests\bin\Debug\System.Text.Encodings.Web.dll
+C:\Shumailov\практика бурмалдактика\Сессия6\e\AgroControlClient.Tests\bin\Debug\System.Numerics.Vectors.dll
+C:\Shumailov\практика бурмалдактика\Сессия6\e\AgroControlClient.Tests\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Shumailov\практика бурмалдактика\Сессия6\e\AgroControlClient.Tests\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Shumailov\практика бурмалдактика\Сессия6\e\AgroControlClient.Tests\bin\Debug\AgroControlClient.pdb
+C:\Shumailov\практика бурмалдактика\Сессия6\e\AgroControlClient.Tests\bin\Debug\AgroControlClient.exe.config
+C:\Shumailov\практика бурмалдактика\Сессия6\e\AgroControlClient.Tests\bin\Debug\FluentAssertions.pdb
+C:\Shumailov\практика бурмалдактика\Сессия6\e\AgroControlClient.Tests\bin\Debug\FluentAssertions.xml
+C:\Shumailov\практика бурмалдактика\Сессия6\e\AgroControlClient.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Shumailov\практика бурмалдактика\Сессия6\e\AgroControlClient.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Shumailov\практика бурмалдактика\Сессия6\e\AgroControlClient.Tests\bin\Debug\ClosedXML.pdb
+C:\Shumailov\практика бурмалдактика\Сессия6\e\AgroControlClient.Tests\bin\Debug\ClosedXML.xml
+C:\Shumailov\практика бурмалдактика\Сессия6\e\AgroControlClient.Tests\bin\Debug\System.Text.Json.xml
+C:\Shumailov\практика бурмалдактика\Сессия6\e\AgroControlClient.Tests\bin\Debug\System.Memory.xml
+C:\Shumailov\практика бурмалдактика\Сессия6\e\AgroControlClient.Tests\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Shumailov\практика бурмалдактика\Сессия6\e\AgroControlClient.Tests\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Shumailov\практика бурмалдактика\Сессия6\e\AgroControlClient.Tests\bin\Debug\SixLabors.Fonts.xml
+C:\Shumailov\практика бурмалдактика\Сессия6\e\AgroControlClient.Tests\bin\Debug\ExcelNumberFormat.xml
+C:\Shumailov\практика бурмалдактика\Сессия6\e\AgroControlClient.Tests\bin\Debug\ClosedXML.Parser.xml
+C:\Shumailov\практика бурмалдактика\Сессия6\e\AgroControlClient.Tests\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Shumailov\практика бурмалдактика\Сессия6\e\AgroControlClient.Tests\bin\Debug\System.Buffers.xml
+C:\Shumailov\практика бурмалдактика\Сессия6\e\AgroControlClient.Tests\bin\Debug\RBush.xml
+C:\Shumailov\практика бурмалдактика\Сессия6\e\AgroControlClient.Tests\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Shumailov\практика бурмалдактика\Сессия6\e\AgroControlClient.Tests\bin\Debug\System.IO.Pipelines.xml
+C:\Shumailov\практика бурмалдактика\Сессия6\e\AgroControlClient.Tests\bin\Debug\System.Text.Encodings.Web.xml
+C:\Shumailov\практика бурмалдактика\Сессия6\e\AgroControlClient.Tests\bin\Debug\System.Numerics.Vectors.xml
+C:\Shumailov\практика бурмалдактика\Сессия6\e\AgroControlClient.Tests\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Shumailov\практика бурмалдактика\Сессия6\e\AgroControlClient.Tests\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Shumailov\практика бурмалдактика\Сессия6\e\AgroControlClient.Tests\obj\Debug\AgroControlClient.Tests.csproj.AssemblyReference.cache
+C:\Shumailov\практика бурмалдактика\Сессия6\e\AgroControlClient.Tests\obj\Debug\AgroControlClient.Tests.csproj.CoreCompileInputs.cache
+C:\Shumailov\практика бурмалдактика\Сессия6\e\AgroControlClient.Tests\obj\Debug\AgroCont.CDF97BF7.Up2Date
+C:\Shumailov\практика бурмалдактика\Сессия6\e\AgroControlClient.Tests\obj\Debug\AgroControlClient.Tests.dll
+C:\Shumailov\практика бурмалдактика\Сессия6\e\AgroControlClient.Tests\obj\Debug\AgroControlClient.Tests.pdb

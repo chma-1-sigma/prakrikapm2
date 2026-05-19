@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="AgroControlClient.Tests/AgroControlClient.Tests.csproj" Id="a7aa47c8-8919-423d-8ce2-e8454347b2da" />
+  <Project Path="AgroControlClient/AgroControlClient.csproj" Id="28876ade-317a-4edf-a202-2638f6c2a1a8" />
+  <Project Path="AgroControlLaboratory.Tests/AgroControlLaboratory.Tests.csproj" Id="92930157-66ef-453a-8ea9-9868e56aae77" />
+  <Project Path="AgroControlLaboratory/AgroControlLaboratory.csproj" Id="e64dc3d6-e990-4db1-ae5a-7d5fb784180c" />
+  <Project Path="AgroControlOperator.Tests/AgroControlOperator.Tests.csproj" Id="b8877cf2-a638-4d60-8643-8606efc82b06" />
+  <Project Path="AgroControlOperator/AgroControlOperator.csproj" Id="4de65276-1779-4d50-bbe6-93f8cb899c4a" />
+  <Project Path="e/e.csproj" />
+</Solution>

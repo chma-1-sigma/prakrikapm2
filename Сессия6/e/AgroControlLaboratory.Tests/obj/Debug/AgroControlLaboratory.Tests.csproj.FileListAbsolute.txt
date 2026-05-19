@@ -1,0 +1,81 @@
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlLaboratory.Tests\bin\Debug\ru\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlLaboratory.Tests\bin\Debug\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlLaboratory.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlLaboratory.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlLaboratory.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlLaboratory.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlLaboratory.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlLaboratory.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlLaboratory.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlLaboratory.Tests\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlLaboratory.Tests\bin\Debug\AgroControlLaboratory.Tests.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlLaboratory.Tests\bin\Debug\AgroControlLaboratory.Tests.pdb
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlLaboratory.Tests\bin\Debug\AgroControlLaboratory.exe
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlLaboratory.Tests\bin\Debug\FluentAssertions.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlLaboratory.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlLaboratory.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlLaboratory.Tests\bin\Debug\AgroControlLaboratory.pdb
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlLaboratory.Tests\bin\Debug\AgroControlLaboratory.exe.config
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlLaboratory.Tests\bin\Debug\FluentAssertions.pdb
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlLaboratory.Tests\bin\Debug\FluentAssertions.xml
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlLaboratory.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlLaboratory.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlLaboratory.Tests\obj\Debug\AgroControlLaboratory.Tests.csproj.AssemblyReference.cache
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlLaboratory.Tests\obj\Debug\AgroControlLaboratory.Tests.csproj.CoreCompileInputs.cache
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlLaboratory.Tests\obj\Debug\AgroCont.B251F44E.Up2Date
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlLaboratory.Tests\obj\Debug\AgroControlLaboratory.Tests.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlLaboratory.Tests\obj\Debug\AgroControlLaboratory.Tests.pdb
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlLaboratory.Tests\bin\Debug\ru\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlLaboratory.Tests\bin\Debug\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlLaboratory.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlLaboratory.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlLaboratory.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlLaboratory.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlLaboratory.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlLaboratory.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlLaboratory.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlLaboratory.Tests\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlLaboratory.Tests\bin\Debug\AgroControlLaboratory.Tests.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlLaboratory.Tests\bin\Debug\AgroControlLaboratory.Tests.pdb
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlLaboratory.Tests\bin\Debug\AgroControlLaboratory.exe
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlLaboratory.Tests\bin\Debug\FluentAssertions.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlLaboratory.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlLaboratory.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlLaboratory.Tests\bin\Debug\AgroControlLaboratory.pdb
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlLaboratory.Tests\bin\Debug\AgroControlLaboratory.exe.config
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlLaboratory.Tests\bin\Debug\FluentAssertions.pdb
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlLaboratory.Tests\bin\Debug\FluentAssertions.xml
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlLaboratory.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlLaboratory.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlLaboratory.Tests\obj\Debug\AgroControlLaboratory.Tests.csproj.AssemblyReference.cache
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlLaboratory.Tests\obj\Debug\AgroControlLaboratory.Tests.csproj.CoreCompileInputs.cache
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlLaboratory.Tests\obj\Debug\AgroCont.B251F44E.Up2Date
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlLaboratory.Tests\obj\Debug\AgroControlLaboratory.Tests.dll
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlLaboratory.Tests\obj\Debug\AgroControlLaboratory.Tests.pdb
+C:\Shumailov\практика бурмалдактика\Сессия6\e\AgroControlLaboratory.Tests\bin\Debug\ru\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Shumailov\практика бурмалдактика\Сессия6\e\AgroControlLaboratory.Tests\bin\Debug\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Shumailov\практика бурмалдактика\Сессия6\e\AgroControlLaboratory.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Shumailov\практика бурмалдактика\Сессия6\e\AgroControlLaboratory.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Shumailov\практика бурмалдактика\Сессия6\e\AgroControlLaboratory.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Shumailov\практика бурмалдактика\Сессия6\e\AgroControlLaboratory.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Shumailov\практика бурмалдактика\Сессия6\e\AgroControlLaboratory.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Shumailov\практика бурмалдактика\Сессия6\e\AgroControlLaboratory.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Shumailov\практика бурмалдактика\Сессия6\e\AgroControlLaboratory.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Shumailov\практика бурмалдактика\Сессия6\e\AgroControlLaboratory.Tests\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Shumailov\практика бурмалдактика\Сессия6\e\AgroControlLaboratory.Tests\bin\Debug\AgroControlLaboratory.Tests.dll
+C:\Shumailov\практика бурмалдактика\Сессия6\e\AgroControlLaboratory.Tests\bin\Debug\AgroControlLaboratory.Tests.pdb
+C:\Shumailov\практика бурмалдактика\Сессия6\e\AgroControlLaboratory.Tests\bin\Debug\AgroControlLaboratory.exe
+C:\Shumailov\практика бурмалдактика\Сессия6\e\AgroControlLaboratory.Tests\bin\Debug\FluentAssertions.dll
+C:\Shumailov\практика бурмалдактика\Сессия6\e\AgroControlLaboratory.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Shumailov\практика бурмалдактика\Сессия6\e\AgroControlLaboratory.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Shumailov\практика бурмалдактика\Сессия6\e\AgroControlLaboratory.Tests\bin\Debug\AgroControlLaboratory.pdb
+C:\Shumailov\практика бурмалдактика\Сессия6\e\AgroControlLaboratory.Tests\bin\Debug\AgroControlLaboratory.exe.config
+C:\Shumailov\практика бурмалдактика\Сессия6\e\AgroControlLaboratory.Tests\bin\Debug\FluentAssertions.pdb
+C:\Shumailov\практика бурмалдактика\Сессия6\e\AgroControlLaboratory.Tests\bin\Debug\FluentAssertions.xml
+C:\Shumailov\практика бурмалдактика\Сессия6\e\AgroControlLaboratory.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Shumailov\практика бурмалдактика\Сессия6\e\AgroControlLaboratory.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Shumailov\практика бурмалдактика\Сессия6\e\AgroControlLaboratory.Tests\obj\Debug\AgroControlLaboratory.Tests.csproj.AssemblyReference.cache
+C:\Shumailov\практика бурмалдактика\Сессия6\e\AgroControlLaboratory.Tests\obj\Debug\AgroControlLaboratory.Tests.csproj.CoreCompileInputs.cache
+C:\Shumailov\практика бурмалдактика\Сессия6\e\AgroControlLaboratory.Tests\obj\Debug\AgroCont.B251F44E.Up2Date
+C:\Shumailov\практика бурмалдактика\Сессия6\e\AgroControlLaboratory.Tests\obj\Debug\AgroControlLaboratory.Tests.dll
+C:\Shumailov\практика бурмалдактика\Сессия6\e\AgroControlLaboratory.Tests\obj\Debug\AgroControlLaboratory.Tests.pdb

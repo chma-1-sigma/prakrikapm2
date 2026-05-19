@@ -1,0 +1,112 @@
+﻿<Window x:Class="AgroControlOperator.Views.LoginWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="АГРОКОНТРОЛЬ — Аппаратчик"
+        Height="560" Width="480"
+        MinHeight="500" MinWidth="400"
+        MaxHeight="800" MaxWidth="900"
+        WindowStartupLocation="CenterScreen"
+        ResizeMode="CanResize"
+        Background="#F8F9FA">
+
+    <Grid>
+        <Border Height="200" VerticalAlignment="Top">
+            <Border.Background>
+                <LinearGradientBrush StartPoint="0,0" EndPoint="0,1">
+                    <GradientStop Color="#1565C0" Offset="0"/>
+                    <GradientStop Color="#0D47A1" Offset="1"/>
+                </LinearGradientBrush>
+            </Border.Background>
+        </Border>
+
+        <Border Background="White" 
+                CornerRadius="16" 
+                Margin="30,60,30,30"
+                Padding="35,30"
+                VerticalAlignment="Top">
+            <Border.Effect>
+                <DropShadowEffect BlurRadius="20" ShadowDepth="5" Opacity="0.15"/>
+            </Border.Effect>
+
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+
+                <Border Grid.Row="0" Width="70" Height="70" 
+                        Background="#E3F2FD" 
+                        CornerRadius="16" 
+                        HorizontalAlignment="Center"
+                        Margin="0,0,0,15">
+                    <TextBlock Text="⚙️" FontSize="36" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                </Border>
+
+                <TextBlock Grid.Row="1" Text="АГРОКОНТРОЛЬ" 
+                           FontSize="26" FontWeight="Bold" 
+                           Foreground="#212529"
+                           HorizontalAlignment="Center"/>
+
+                <TextBlock Grid.Row="2" Text="Модуль аппаратчика" 
+                           FontSize="14" 
+                           Foreground="#6C757D"
+                           HorizontalAlignment="Center"
+                           Margin="0,4,0,30"/>
+
+                <TextBlock Grid.Row="3" Text="Табельный номер" FontSize="13" FontWeight="SemiBold" 
+                           Foreground="#495057" Margin="0,0,0,6"/>
+                <TextBox x:Name="txtLogin" Grid.Row="4" 
+                         Text="operator.zavodov" Margin="0,0,0,16"/>
+
+                <TextBlock Grid.Row="5" Text="Пароль" FontSize="13" FontWeight="SemiBold" 
+                           Foreground="#495057" Margin="0,0,0,6"/>
+                <PasswordBox x:Name="txtPassword" Grid.Row="6" 
+                             Password="123" Margin="0,0,0,16"/>
+
+                <TextBlock Grid.Row="7" Text="Смена" FontSize="13" FontWeight="SemiBold" 
+                           Foreground="#495057" Margin="0,0,0,6"/>
+                <ComboBox x:Name="cmbShift" Grid.Row="8" Margin="0,0,0,25" SelectedIndex="0">
+                    <ComboBoxItem Content="Утренняя смена (06:00 - 14:00)"/>
+                    <ComboBoxItem Content="Дневная смена (14:00 - 22:00)"/>
+                    <ComboBoxItem Content="Ночная смена (22:00 - 06:00)"/>
+                </ComboBox>
+
+                <StackPanel Grid.Row="8" Orientation="Vertical" HorizontalAlignment="Stretch" Margin="0,53,0,-54">
+                    <Button x:Name="btnLogin" Content="Войти в систему" 
+                            Height="45" FontSize="15" FontWeight="SemiBold"
+                            Background="#1565C0" Foreground="White"
+                            BorderThickness="0" Cursor="Hand">
+                        <Button.Template>
+                            <ControlTemplate TargetType="Button">
+                                <Border Background="{TemplateBinding Background}" 
+                                        CornerRadius="6" Height="{TemplateBinding Height}">
+                                    <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                                </Border>
+                            </ControlTemplate>
+                        </Button.Template>
+                    </Button>
+
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,12,0,0">
+                        <Button x:Name="btnCancel" Content="Отмена" 
+                                Width="130" Height="38"
+                                Background="Transparent" Foreground="#DC3545"
+                                BorderThickness="0" FontWeight="SemiBold" Cursor="Hand"/>
+                    </StackPanel>
+                </StackPanel>
+
+                <TextBlock x:Name="lblStatus" Grid.Row="9" Text="" 
+                           Foreground="#DC3545"
+                           HorizontalAlignment="Center"
+                           VerticalAlignment="Bottom"
+                           Margin="0,15,0,0"/>
+            </Grid>
+        </Border>
+    </Grid>
+    </Window>

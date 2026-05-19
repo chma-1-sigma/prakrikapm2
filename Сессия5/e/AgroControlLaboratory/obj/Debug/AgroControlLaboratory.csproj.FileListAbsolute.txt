@@ -1,0 +1,57 @@
+C:\Users\deb29\source\repos\e\AgroControlLaboratory\obj\Debug\AgroControlLaboratory.csproj.AssemblyReference.cache
+C:\Users\deb29\source\repos\e\AgroControlLaboratory\obj\Debug\MainWindow.baml
+C:\Users\deb29\source\repos\e\AgroControlLaboratory\obj\Debug\QualityTestWindow.baml
+C:\Users\deb29\source\repos\e\AgroControlLaboratory\obj\Debug\Views\LoginWindow.baml
+C:\Users\deb29\source\repos\e\AgroControlLaboratory\obj\Debug\App.baml
+C:\Users\deb29\source\repos\e\AgroControlLaboratory\obj\Debug\MainWindow.g.cs
+C:\Users\deb29\source\repos\e\AgroControlLaboratory\obj\Debug\QualityTestWindow.g.cs
+C:\Users\deb29\source\repos\e\AgroControlLaboratory\obj\Debug\Views\LoginWindow.g.cs
+C:\Users\deb29\source\repos\e\AgroControlLaboratory\obj\Debug\App.g.cs
+C:\Users\deb29\source\repos\e\AgroControlLaboratory\obj\Debug\AgroControlLaboratory_MarkupCompile.cache
+C:\Users\deb29\source\repos\e\AgroControlLaboratory\obj\Debug\AgroControlLaboratory.g.resources
+C:\Users\deb29\source\repos\e\AgroControlLaboratory\obj\Debug\AgroControlLaboratory.Properties.Resources.resources
+C:\Users\deb29\source\repos\e\AgroControlLaboratory\obj\Debug\AgroControlLaboratory.csproj.GenerateResource.cache
+C:\Users\deb29\source\repos\e\AgroControlLaboratory\obj\Debug\AgroControlLaboratory.csproj.CoreCompileInputs.cache
+C:\Users\deb29\source\repos\e\AgroControlLaboratory\bin\Debug\AgroControlLaboratory.exe.config
+C:\Users\deb29\source\repos\e\AgroControlLaboratory\bin\Debug\AgroControlLaboratory.exe
+C:\Users\deb29\source\repos\e\AgroControlLaboratory\bin\Debug\AgroControlLaboratory.pdb
+C:\Users\deb29\source\repos\e\AgroControlLaboratory\obj\Debug\AgroControlLaboratory.exe
+C:\Users\deb29\source\repos\e\AgroControlLaboratory\obj\Debug\AgroControlLaboratory.pdb
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlLaboratory\bin\Debug\AgroControlLaboratory.exe.config
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlLaboratory\bin\Debug\AgroControlLaboratory.exe
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlLaboratory\bin\Debug\AgroControlLaboratory.pdb
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlLaboratory\obj\Debug\AgroControlLaboratory.csproj.AssemblyReference.cache
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlLaboratory\obj\Debug\MainWindow.baml
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlLaboratory\obj\Debug\QualityTestWindow.baml
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlLaboratory\obj\Debug\Views\LoginWindow.baml
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlLaboratory\obj\Debug\App.baml
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlLaboratory\obj\Debug\MainWindow.g.cs
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlLaboratory\obj\Debug\QualityTestWindow.g.cs
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlLaboratory\obj\Debug\Views\LoginWindow.g.cs
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlLaboratory\obj\Debug\App.g.cs
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlLaboratory\obj\Debug\AgroControlLaboratory_MarkupCompile.cache
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlLaboratory\obj\Debug\AgroControlLaboratory.g.resources
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlLaboratory\obj\Debug\AgroControlLaboratory.Properties.Resources.resources
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlLaboratory\obj\Debug\AgroControlLaboratory.csproj.GenerateResource.cache
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlLaboratory\obj\Debug\AgroControlLaboratory.csproj.CoreCompileInputs.cache
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlLaboratory\obj\Debug\AgroControlLaboratory.exe
+C:\Shumailov\практика бурмалдактика\Новая папка (5)\e\AgroControlLaboratory\obj\Debug\AgroControlLaboratory.pdb
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlLaboratory\bin\Debug\AgroControlLaboratory.exe.config
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlLaboratory\bin\Debug\AgroControlLaboratory.exe
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlLaboratory\bin\Debug\AgroControlLaboratory.pdb
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlLaboratory\obj\Debug\AgroControlLaboratory.csproj.AssemblyReference.cache
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlLaboratory\obj\Debug\MainWindow.baml
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlLaboratory\obj\Debug\QualityTestWindow.baml
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlLaboratory\obj\Debug\Views\LoginWindow.baml
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlLaboratory\obj\Debug\App.baml
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlLaboratory\obj\Debug\MainWindow.g.cs
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlLaboratory\obj\Debug\QualityTestWindow.g.cs
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlLaboratory\obj\Debug\Views\LoginWindow.g.cs
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlLaboratory\obj\Debug\App.g.cs
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlLaboratory\obj\Debug\AgroControlLaboratory_MarkupCompile.cache
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlLaboratory\obj\Debug\AgroControlLaboratory.g.resources
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlLaboratory\obj\Debug\AgroControlLaboratory.Properties.Resources.resources
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlLaboratory\obj\Debug\AgroControlLaboratory.csproj.GenerateResource.cache
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlLaboratory\obj\Debug\AgroControlLaboratory.csproj.CoreCompileInputs.cache
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlLaboratory\obj\Debug\AgroControlLaboratory.exe
+C:\Shumailov\практика бурмалдактика\Новая папка (6)\e\AgroControlLaboratory\obj\Debug\AgroControlLaboratory.pdb

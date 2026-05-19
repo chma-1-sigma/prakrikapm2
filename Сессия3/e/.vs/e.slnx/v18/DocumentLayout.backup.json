@@ -1,0 +1,608 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28876ADE-317A-4EDF-A202-2638F6C2A1A8}|AgroControlClient\\AgroControlClient.csproj|C:\\Shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\agrocontrolclient\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{28876ADE-317A-4EDF-A202-2638F6C2A1A8}|AgroControlClient\\AgroControlClient.csproj|solutionrelative:agrocontrolclient\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28876ADE-317A-4EDF-A202-2638F6C2A1A8}|AgroControlClient\\AgroControlClient.csproj|C:\\Shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\agrocontrolclient\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28876ADE-317A-4EDF-A202-2638F6C2A1A8}|AgroControlClient\\AgroControlClient.csproj|solutionrelative:agrocontrolclient\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28876ADE-317A-4EDF-A202-2638F6C2A1A8}|AgroControlClient\\AgroControlClient.csproj|C:\\Shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\agrocontrolclient\\registerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{28876ADE-317A-4EDF-A202-2638F6C2A1A8}|AgroControlClient\\AgroControlClient.csproj|solutionrelative:agrocontrolclient\\registerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28876ADE-317A-4EDF-A202-2638F6C2A1A8}|AgroControlClient\\AgroControlClient.csproj|C:\\Shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\agrocontrolclient\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{28876ADE-317A-4EDF-A202-2638F6C2A1A8}|AgroControlClient\\AgroControlClient.csproj|solutionrelative:agrocontrolclient\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28876ADE-317A-4EDF-A202-2638F6C2A1A8}|AgroControlClient\\AgroControlClient.csproj|C:\\Shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\agrocontrolclient\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28876ADE-317A-4EDF-A202-2638F6C2A1A8}|AgroControlClient\\AgroControlClient.csproj|solutionrelative:agrocontrolclient\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28876ADE-317A-4EDF-A202-2638F6C2A1A8}|AgroControlClient\\AgroControlClient.csproj|C:\\Shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\agrocontrolclient\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{28876ADE-317A-4EDF-A202-2638F6C2A1A8}|AgroControlClient\\AgroControlClient.csproj|solutionrelative:agrocontrolclient\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|AgroControlClient||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D53082-6F5E-25CF-2B62-7A5FDACCBC71}|e\\e.csproj|c:\\shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\e\\controllers\\rawmaterialscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27D53082-6F5E-25CF-2B62-7A5FDACCBC71}|e\\e.csproj|solutionrelative:e\\controllers\\rawmaterialscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28876ADE-317A-4EDF-A202-2638F6C2A1A8}|AgroControlClient\\AgroControlClient.csproj|C:\\Shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\agrocontrolclient\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28876ADE-317A-4EDF-A202-2638F6C2A1A8}|AgroControlClient\\AgroControlClient.csproj|solutionrelative:agrocontrolclient\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\packages\\EPPlus.8.5.4\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:packages\\EPPlus.8.5.4\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28876ADE-317A-4EDF-A202-2638F6C2A1A8}|AgroControlClient\\AgroControlClient.csproj|C:\\Shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\agrocontrolclient\\registerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28876ADE-317A-4EDF-A202-2638F6C2A1A8}|AgroControlClient\\AgroControlClient.csproj|solutionrelative:agrocontrolclient\\registerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D53082-6F5E-25CF-2B62-7A5FDACCBC71}|e\\e.csproj|c:\\shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\e\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27D53082-6F5E-25CF-2B62-7A5FDACCBC71}|e\\e.csproj|solutionrelative:e\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D53082-6F5E-25CF-2B62-7A5FDACCBC71}|e\\e.csproj|c:\\shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\e\\controllers\\productionorderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27D53082-6F5E-25CF-2B62-7A5FDACCBC71}|e\\e.csproj|solutionrelative:e\\controllers\\productionorderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D53082-6F5E-25CF-2B62-7A5FDACCBC71}|e\\e.csproj|c:\\shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\e\\controllers\\batchstepscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27D53082-6F5E-25CF-2B62-7A5FDACCBC71}|e\\e.csproj|solutionrelative:e\\controllers\\batchstepscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D53082-6F5E-25CF-2B62-7A5FDACCBC71}|e\\e.csproj|c:\\shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\e\\controllers\\batchescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27D53082-6F5E-25CF-2B62-7A5FDACCBC71}|e\\e.csproj|solutionrelative:e\\controllers\\batchescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D53082-6F5E-25CF-2B62-7A5FDACCBC71}|e\\e.csproj|c:\\shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\e\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27D53082-6F5E-25CF-2B62-7A5FDACCBC71}|e\\e.csproj|solutionrelative:e\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D53082-6F5E-25CF-2B62-7A5FDACCBC71}|e\\e.csproj|c:\\shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\e\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27D53082-6F5E-25CF-2B62-7A5FDACCBC71}|e\\e.csproj|solutionrelative:e\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D53082-6F5E-25CF-2B62-7A5FDACCBC71}|e\\e.csproj|c:\\shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\e\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27D53082-6F5E-25CF-2B62-7A5FDACCBC71}|e\\e.csproj|solutionrelative:e\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D53082-6F5E-25CF-2B62-7A5FDACCBC71}|e\\e.csproj|c:\\shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\e\\models\\quality.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27D53082-6F5E-25CF-2B62-7A5FDACCBC71}|e\\e.csproj|solutionrelative:e\\models\\quality.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D53082-6F5E-25CF-2B62-7A5FDACCBC71}|e\\e.csproj|c:\\shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\e\\models\\batch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27D53082-6F5E-25CF-2B62-7A5FDACCBC71}|e\\e.csproj|solutionrelative:e\\models\\batch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D53082-6F5E-25CF-2B62-7A5FDACCBC71}|e\\e.csproj|c:\\shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\e\\models\\techcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27D53082-6F5E-25CF-2B62-7A5FDACCBC71}|e\\e.csproj|solutionrelative:e\\models\\techcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D53082-6F5E-25CF-2B62-7A5FDACCBC71}|e\\e.csproj|c:\\shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\e\\models\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27D53082-6F5E-25CF-2B62-7A5FDACCBC71}|e\\e.csproj|solutionrelative:e\\models\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D53082-6F5E-25CF-2B62-7A5FDACCBC71}|e\\e.csproj|c:\\shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\e\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27D53082-6F5E-25CF-2B62-7A5FDACCBC71}|e\\e.csproj|solutionrelative:e\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D53082-6F5E-25CF-2B62-7A5FDACCBC71}|e\\e.csproj|c:\\shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\e\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27D53082-6F5E-25CF-2B62-7A5FDACCBC71}|e\\e.csproj|solutionrelative:e\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D53082-6F5E-25CF-2B62-7A5FDACCBC71}|e\\e.csproj|c:\\shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\e\\controllers\\notificationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27D53082-6F5E-25CF-2B62-7A5FDACCBC71}|e\\e.csproj|solutionrelative:e\\controllers\\notificationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D53082-6F5E-25CF-2B62-7A5FDACCBC71}|e\\e.csproj|c:\\shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\e\\controllers\\deviationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27D53082-6F5E-25CF-2B62-7A5FDACCBC71}|e\\e.csproj|solutionrelative:e\\controllers\\deviationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D53082-6F5E-25CF-2B62-7A5FDACCBC71}|e\\e.csproj|c:\\shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\e\\controllers\\qualitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27D53082-6F5E-25CF-2B62-7A5FDACCBC71}|e\\e.csproj|solutionrelative:e\\controllers\\qualitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D53082-6F5E-25CF-2B62-7A5FDACCBC71}|e\\e.csproj|c:\\shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\e\\controllers\\stepparameterscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27D53082-6F5E-25CF-2B62-7A5FDACCBC71}|e\\e.csproj|solutionrelative:e\\controllers\\stepparameterscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D53082-6F5E-25CF-2B62-7A5FDACCBC71}|e\\e.csproj|c:\\shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\e\\controllers\\techcardstepscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27D53082-6F5E-25CF-2B62-7A5FDACCBC71}|e\\e.csproj|solutionrelative:e\\controllers\\techcardstepscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D53082-6F5E-25CF-2B62-7A5FDACCBC71}|e\\e.csproj|c:\\shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\e\\controllers\\techcardscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27D53082-6F5E-25CF-2B62-7A5FDACCBC71}|e\\e.csproj|solutionrelative:e\\controllers\\techcardscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D53082-6F5E-25CF-2B62-7A5FDACCBC71}|e\\e.csproj|c:\\shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\e\\controllers\\recipecomponentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27D53082-6F5E-25CF-2B62-7A5FDACCBC71}|e\\e.csproj|solutionrelative:e\\controllers\\recipecomponentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D53082-6F5E-25CF-2B62-7A5FDACCBC71}|e\\e.csproj|c:\\shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\e\\controllers\\recipescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27D53082-6F5E-25CF-2B62-7A5FDACCBC71}|e\\e.csproj|solutionrelative:e\\controllers\\recipescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D53082-6F5E-25CF-2B62-7A5FDACCBC71}|e\\e.csproj|c:\\shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\e\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27D53082-6F5E-25CF-2B62-7A5FDACCBC71}|e\\e.csproj|solutionrelative:e\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D53082-6F5E-25CF-2B62-7A5FDACCBC71}|e\\e.csproj|c:\\shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\e\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{27D53082-6F5E-25CF-2B62-7A5FDACCBC71}|e\\e.csproj|solutionrelative:e\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28876ADE-317A-4EDF-A202-2638F6C2A1A8}|AgroControlClient\\AgroControlClient.csproj|C:\\Shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\agrocontrolclient\\models\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28876ADE-317A-4EDF-A202-2638F6C2A1A8}|AgroControlClient\\AgroControlClient.csproj|solutionrelative:agrocontrolclient\\models\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\\e\\e\\Controllers\\OrdersController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\\e\\e\\Models\\AllModels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 320,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\Shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\AgroControlClient\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "AgroControlClient\\LoginWindow.xaml",
+              "ToolTip": "C:\\Shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\AgroControlClient\\LoginWindow.xaml",
+              "RelativeToolTip": "AgroControlClient\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-12T07:23:29.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\AgroControlClient\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AgroControlClient\\LoginWindow.xaml.cs",
+              "ToolTip": "C:\\Shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\AgroControlClient\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "AgroControlClient\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAALgAAAAAAAAAAAAuwLkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T07:23:27.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterWindow.xaml",
+              "DocumentMoniker": "C:\\Shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\AgroControlClient\\RegisterWindow.xaml",
+              "RelativeDocumentMoniker": "AgroControlClient\\RegisterWindow.xaml",
+              "ToolTip": "C:\\Shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\AgroControlClient\\RegisterWindow.xaml",
+              "RelativeToolTip": "AgroControlClient\\RegisterWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-12T07:30:47.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\AgroControlClient\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "AgroControlClient\\MainWindow.xaml",
+              "ToolTip": "C:\\Shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\AgroControlClient\\MainWindow.xaml",
+              "RelativeToolTip": "AgroControlClient\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-12T06:44:54.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\AgroControlClient\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AgroControlClient\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\AgroControlClient\\MainWindow.xaml.cs",
+              "RelativeToolTip": "AgroControlClient\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAOQAAAAAAAAAAADgv+sAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T07:12:06.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\AgroControlClient\\App.xaml",
+              "RelativeDocumentMoniker": "AgroControlClient\\App.xaml",
+              "ToolTip": "C:\\Shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\AgroControlClient\\App.xaml",
+              "RelativeToolTip": "AgroControlClient\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-12T07:18:16.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\e\\Program.cs",
+              "RelativeDocumentMoniker": "e\\Program.cs",
+              "ToolTip": "C:\\Shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\e\\Program.cs",
+              "RelativeToolTip": "e\\Program.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAADwv1MAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T11:53:58.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\e\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "e\\WeatherForecast.cs",
+              "ToolTip": "C:\\Shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\e\\WeatherForecast.cs",
+              "RelativeToolTip": "e\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T11:54:11.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Models.cs",
+              "DocumentMoniker": "C:\\Shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\AgroControlClient\\Models\\Models.cs",
+              "RelativeDocumentMoniker": "AgroControlClient\\Models\\Models.cs",
+              "ToolTip": "C:\\Shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\AgroControlClient\\Models\\Models.cs",
+              "RelativeToolTip": "AgroControlClient\\Models\\Models.cs",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAcwLoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T07:29:11.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AgroControlClient",
+              "DocumentMoniker": "C:\\Shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\AgroControlClient\\AgroControlClient.csproj",
+              "RelativeDocumentMoniker": "AgroControlClient\\AgroControlClient.csproj",
+              "ToolTip": "C:\\Shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\AgroControlClient\\AgroControlClient.csproj",
+              "RelativeToolTip": "AgroControlClient\\AgroControlClient.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-18T07:11:34.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RegisterWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\AgroControlClient\\RegisterWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AgroControlClient\\RegisterWindow.xaml.cs",
+              "ToolTip": "C:\\Shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\AgroControlClient\\RegisterWindow.xaml.cs",
+              "RelativeToolTip": "AgroControlClient\\RegisterWindow.xaml.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAYwHgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T07:31:37.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DeviationsController.cs",
+              "DocumentMoniker": "C:\\Shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\e\\Controllers\\DeviationsController.cs",
+              "RelativeDocumentMoniker": "e\\Controllers\\DeviationsController.cs",
+              "ToolTip": "C:\\Shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\e\\Controllers\\DeviationsController.cs",
+              "RelativeToolTip": "e\\Controllers\\DeviationsController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAswEwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T12:58:46.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "readme.txt",
+              "DocumentMoniker": "C:\\Shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\packages\\EPPlus.8.5.4\\readme.txt",
+              "RelativeDocumentMoniker": "packages\\EPPlus.8.5.4\\readme.txt",
+              "ToolTip": "C:\\Shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\packages\\EPPlus.8.5.4\\readme.txt",
+              "RelativeToolTip": "packages\\EPPlus.8.5.4\\readme.txt",
+              "ViewState": "AgIAACQAAAAAAAAAAAAQwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-05-13T05:39:16.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RawMaterialsController.cs",
+              "DocumentMoniker": "C:\\Shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\e\\Controllers\\RawMaterialsController.cs",
+              "RelativeDocumentMoniker": "e\\Controllers\\RawMaterialsController.cs",
+              "ToolTip": "C:\\Shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\e\\Controllers\\RawMaterialsController.cs",
+              "RelativeToolTip": "e\\Controllers\\RawMaterialsController.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAswFQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T12:59:34.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "NotificationsController.cs",
+              "DocumentMoniker": "C:\\Shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\e\\Controllers\\NotificationsController.cs",
+              "RelativeDocumentMoniker": "e\\Controllers\\NotificationsController.cs",
+              "ToolTip": "C:\\Shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\e\\Controllers\\NotificationsController.cs",
+              "RelativeToolTip": "e\\Controllers\\NotificationsController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAswFMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T12:59:11.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BatchStepsController.cs",
+              "DocumentMoniker": "C:\\Shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\e\\Controllers\\BatchStepsController.cs",
+              "RelativeDocumentMoniker": "e\\Controllers\\BatchStepsController.cs",
+              "ToolTip": "C:\\Shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\e\\Controllers\\BatchStepsController.cs",
+              "RelativeToolTip": "e\\Controllers\\BatchStepsController.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAqwLYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T12:57:34.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductionOrdersController.cs",
+              "DocumentMoniker": "C:\\Shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\e\\Controllers\\ProductionOrdersController.cs",
+              "RelativeDocumentMoniker": "e\\Controllers\\ProductionOrdersController.cs",
+              "ToolTip": "C:\\Shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\e\\Controllers\\ProductionOrdersController.cs",
+              "RelativeToolTip": "e\\Controllers\\ProductionOrdersController.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAgwGgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T12:56:35.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "StepParametersController.cs",
+              "DocumentMoniker": "C:\\Shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\e\\Controllers\\StepParametersController.cs",
+              "RelativeDocumentMoniker": "e\\Controllers\\StepParametersController.cs",
+              "ToolTip": "C:\\Shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\e\\Controllers\\StepParametersController.cs",
+              "RelativeToolTip": "e\\Controllers\\StepParametersController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAswEcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T12:56:17.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "TechCardStepsController.cs",
+              "DocumentMoniker": "C:\\Shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\e\\Controllers\\TechCardStepsController.cs",
+              "RelativeDocumentMoniker": "e\\Controllers\\TechCardStepsController.cs",
+              "ToolTip": "C:\\Shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\e\\Controllers\\TechCardStepsController.cs",
+              "RelativeToolTip": "e\\Controllers\\TechCardStepsController.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAswIYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T12:55:58.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "TechCardsController.cs",
+              "DocumentMoniker": "C:\\Shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\e\\Controllers\\TechCardsController.cs",
+              "RelativeDocumentMoniker": "e\\Controllers\\TechCardsController.cs",
+              "ToolTip": "C:\\Shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\e\\Controllers\\TechCardsController.cs",
+              "RelativeToolTip": "e\\Controllers\\TechCardsController.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAwwGsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T12:55:28.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "RecipeComponentsController.cs",
+              "DocumentMoniker": "C:\\Shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\e\\Controllers\\RecipeComponentsController.cs",
+              "RelativeDocumentMoniker": "e\\Controllers\\RecipeComponentsController.cs",
+              "ToolTip": "C:\\Shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\e\\Controllers\\RecipeComponentsController.cs",
+              "RelativeToolTip": "e\\Controllers\\RecipeComponentsController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAwwEgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T12:55:06.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Quality.cs",
+              "DocumentMoniker": "C:\\Shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\e\\Models\\Quality.cs",
+              "RelativeDocumentMoniker": "e\\Models\\Quality.cs",
+              "ToolTip": "C:\\Shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\e\\Models\\Quality.cs",
+              "RelativeToolTip": "e\\Models\\Quality.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAQwGYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T12:53:38.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TechCard.cs",
+              "DocumentMoniker": "C:\\Shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\e\\Models\\TechCard.cs",
+              "RelativeDocumentMoniker": "e\\Models\\TechCard.cs",
+              "ToolTip": "C:\\Shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\e\\Models\\TechCard.cs",
+              "RelativeToolTip": "e\\Models\\TechCard.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAQwFYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T12:53:06.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\e\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "e\\Models\\Product.cs",
+              "ToolTip": "C:\\Shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\e\\Models\\Product.cs",
+              "RelativeToolTip": "e\\Models\\Product.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAADwvyAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T12:38:12.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\e\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "e\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\e\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "e\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAYwEUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T12:34:30.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Batch.cs",
+              "DocumentMoniker": "C:\\Shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\e\\Models\\Batch.cs",
+              "RelativeDocumentMoniker": "e\\Models\\Batch.cs",
+              "ToolTip": "C:\\Shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\e\\Models\\Batch.cs",
+              "RelativeToolTip": "e\\Models\\Batch.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAYwIAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T12:34:14.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Recipe.cs",
+              "DocumentMoniker": "C:\\Shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\e\\Models\\Recipe.cs",
+              "RelativeDocumentMoniker": "e\\Models\\Recipe.cs",
+              "ToolTip": "C:\\Shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\e\\Models\\Recipe.cs",
+              "RelativeToolTip": "e\\Models\\Recipe.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAmwFMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T12:33:57.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\e\\Models\\User.cs",
+              "RelativeDocumentMoniker": "e\\Models\\User.cs",
+              "ToolTip": "C:\\Shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\e\\Models\\User.cs",
+              "RelativeToolTip": "e\\Models\\User.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwCsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T12:33:40.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\e\\appsettings.json",
+              "RelativeDocumentMoniker": "e\\appsettings.json",
+              "ToolTip": "C:\\Shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\e\\appsettings.json",
+              "RelativeToolTip": "e\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-12T12:28:34.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "QualityController.cs",
+              "DocumentMoniker": "C:\\Shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\e\\Controllers\\QualityController.cs",
+              "RelativeDocumentMoniker": "e\\Controllers\\QualityController.cs",
+              "ToolTip": "C:\\Shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\e\\Controllers\\QualityController.cs",
+              "RelativeToolTip": "e\\Controllers\\QualityController.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAswKMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T12:23:41.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BatchesController.cs",
+              "DocumentMoniker": "C:\\Shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\e\\Controllers\\BatchesController.cs",
+              "RelativeDocumentMoniker": "e\\Controllers\\BatchesController.cs",
+              "ToolTip": "C:\\Shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\e\\Controllers\\BatchesController.cs",
+              "RelativeToolTip": "e\\Controllers\\BatchesController.cs",
+              "ViewState": "AgIAAKYAAAAAAAAAAAAqwMQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T12:09:42.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\\e\\e\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "..\\..\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\\e\\e\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\\e\\e\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "..\\..\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\\e\\e\\Controllers\\OrdersController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T12:09:26.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\e\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "e\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\e\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "e\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAIwKsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T12:07:40.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AllModels.cs",
+              "DocumentMoniker": "C:\\Shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\\e\\e\\Models\\AllModels.cs",
+              "RelativeDocumentMoniker": "..\\..\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\\e\\e\\Models\\AllModels.cs",
+              "ToolTip": "C:\\Shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\\e\\e\\Models\\AllModels.cs",
+              "RelativeToolTip": "..\\..\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\\e\\e\\Models\\AllModels.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T12:04:39.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "RecipesController.cs",
+              "DocumentMoniker": "C:\\Shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\e\\Controllers\\RecipesController.cs",
+              "RelativeDocumentMoniker": "e\\Controllers\\RecipesController.cs",
+              "ToolTip": "C:\\Shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\e\\Controllers\\RecipesController.cs",
+              "RelativeToolTip": "e\\Controllers\\RecipesController.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAADwv28AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T12:03:02.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\e\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "e\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\e\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "e\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAADwvxUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T12:02:20.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApiService.cs",
+              "DocumentMoniker": "C:\\Shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\AgroControlClient\\Services\\ApiService.cs",
+              "RelativeDocumentMoniker": "AgroControlClient\\Services\\ApiService.cs",
+              "ToolTip": "C:\\Shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0431\u0443\u0440\u043C\u0430\u043B\u0434\u0430\u043A\u0442\u0438\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (7)\\e\\AgroControlClient\\Services\\ApiService.cs",
+              "RelativeToolTip": "AgroControlClient\\Services\\ApiService.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAwEgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T07:30:02.999Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
